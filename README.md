@@ -1,4 +1,4 @@
-# primenumbers
+# Prime Numbers
 
 A programme that displays the prime numbers between 1 and 100.
 
